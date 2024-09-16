@@ -61,7 +61,7 @@ color: white;
 
 /* bodiesssss customization                                      */
 .body-1{
-  background-image: url(images/1st\ background.png);
+  background-image: url(images/1st background.png);
   height: 75vh;
   padding-top:10% ;
   padding-left: 15%;
@@ -551,7 +551,7 @@ color: #1A1A1A;
     text-align: left
 }
 .promotion-container{
-  background-image: url(../images/cutting\ background.jpg);
+  background-image: url(images/cutting background.jpg);
   padding-top: 100px;
   padding-left: 50%;
   padding-bottom: 70px;
